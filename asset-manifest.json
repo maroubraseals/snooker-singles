@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/snooker-singles/static/css/main.65111644.css",
-    "main.js": "/snooker-singles/static/js/main.3a0bb64a.js",
+    "main.css": "/snooker-singles/static/css/main.de12a4d3.css",
+    "main.js": "/snooker-singles/static/js/main.74f4d36d.js",
     "static/js/952.28a233e3.chunk.js": "/snooker-singles/static/js/952.28a233e3.chunk.js",
     "static/js/453.c170e5d0.chunk.js": "/snooker-singles/static/js/453.c170e5d0.chunk.js",
     "index.html": "/snooker-singles/index.html",
-    "main.65111644.css.map": "/snooker-singles/static/css/main.65111644.css.map",
-    "main.3a0bb64a.js.map": "/snooker-singles/static/js/main.3a0bb64a.js.map",
+    "main.de12a4d3.css.map": "/snooker-singles/static/css/main.de12a4d3.css.map",
+    "main.74f4d36d.js.map": "/snooker-singles/static/js/main.74f4d36d.js.map",
     "952.28a233e3.chunk.js.map": "/snooker-singles/static/js/952.28a233e3.chunk.js.map",
     "453.c170e5d0.chunk.js.map": "/snooker-singles/static/js/453.c170e5d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65111644.css",
-    "static/js/main.3a0bb64a.js"
+    "static/css/main.de12a4d3.css",
+    "static/js/main.74f4d36d.js"
   ]
 }
