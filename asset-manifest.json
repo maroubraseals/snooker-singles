@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/snooker-singles/static/css/main.4dd89c67.css",
-    "main.js": "/snooker-singles/static/js/main.697faeaf.js",
+    "main.js": "/snooker-singles/static/js/main.c551290f.js",
     "static/js/437.00d20faa.chunk.js": "/snooker-singles/static/js/437.00d20faa.chunk.js",
     "static/js/206.b23ecc49.chunk.js": "/snooker-singles/static/js/206.b23ecc49.chunk.js",
     "index.html": "/snooker-singles/index.html"
   },
   "entrypoints": [
     "static/css/main.4dd89c67.css",
-    "static/js/main.697faeaf.js"
+    "static/js/main.c551290f.js"
   ]
 }
